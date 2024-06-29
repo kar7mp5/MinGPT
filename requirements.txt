@@ -1,0 +1,5 @@
+# transformer
+tiktoken
+torch
+torchvision
+numpy
