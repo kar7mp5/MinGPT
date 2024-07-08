@@ -1,12 +1,19 @@
 # MinGPT
 
-## Install Library
+The LLM model made by MinSup Kim.
+
+## Table of the contents
+
+[**1. Install libraries**](#1-install-libraries)  
+[**2. The description of the model**](#2-the-description-of-the-model)
+
+### 1. Install libraries
 
 ```console
 $ pip3 install -r requirements.txt
 ```
 
-## Model Description
+### 2. The description of the model
 
 ![MultiHeadAttention](./img/1_MultiHeadAttention.png)
 ![Normalization](./img/2_Normalization.png)
