@@ -9,6 +9,17 @@ The LLM model made by MinSup Kim.
 
 ### 1. Install libraries
 
+-   **Required libraries**
+
+```
+tiktoken
+torch
+torchvision
+numpy
+```
+
+-   **Quick install**
+
 ```console
 $ pip3 install -r requirements.txt
 ```
